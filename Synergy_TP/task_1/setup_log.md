@@ -21,15 +21,5 @@ pip freeze > task_1\requirements.txt
 # Testing Python script
 python task_1/src/hello.py
 
-# Checking repository status
-git status
+# repository was committed and pushed using github desktop
 
-# Stage changes
-git add .
-
-# Commit changes
-git commit -m "Completed Task 1"
-
-# Push repository to GitHub
-git push origin main
-```
