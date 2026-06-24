@@ -1,0 +1,21 @@
+{
+    "total_students": 7,
+    "submitted_students": 5,
+    "missing_submissions": 2,
+    "average_score": 4.857142857142857,
+    "highest_scorer": "Isha",
+    "lowest_submitted_student": "Rohan",
+    "domain_wise_average": {
+        "ML": 5.0,
+        "Web": 5.0,
+        "Electronics": 9.0,
+        "Mechanical": 0.0
+    },
+    "students_missing_submission": [
+        "Kabir",
+        "Dev"
+    ],
+    "students_below_five": [
+        "Rohan"
+    ]
+}
