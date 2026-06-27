@@ -1,0 +1,27 @@
+{
+    "rows": 11,
+    "missing_values": {
+        "student_id": 0,
+        "name": 0,
+        "domain": 0,
+        "attendance_percent": 1,
+        "score": 1,
+        "study_hours": 0,
+        "height": 0,
+        "weight": 1,
+        "submitted": 0
+    },
+    "duplicates": 1,
+    "domains": [
+        "ml",
+        "Web Dev",
+        "ML",
+        "electronics",
+        "web",
+        "MACHINE LEARNING",
+        "Mechanical",
+        "Electronics",
+        "web development"
+    ],
+    "average_score": 5.111111111111111
+}
